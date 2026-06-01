@@ -1,8 +1,8 @@
-# Privacy Policy — Virtual CoinVault
+# Privacy Policy — CoinLocker
 
 **Last updated: May 2026**
 
-Virtual CoinVault ("we," "us," or "our") operates the Virtual CoinVault mobile application (the "App"). This Privacy Policy explains how we collect, use, and protect your information when you use our App.
+CoinLocker ("we," "us," or "our") operates the CoinLocker mobile application (the "App"). This Privacy Policy explains how we collect, use, and protect your information when you use our App.
 
 ## Information We Collect
 
@@ -19,7 +19,7 @@ We collect information about how you use the App, including items added to your 
 We collect your device's push notification token to send you alerts about matches and messages.
 
 **Purchase Information**
-If you subscribe to Virtual CoinVault Pro, purchase information is processed by Apple and RevenueCat. We do not store your payment card details.
+If you subscribe to CoinLocker Pro, purchase information is processed by Apple and RevenueCat. We do not store your payment card details.
 
 ## How We Use Your Information
 
@@ -50,7 +50,7 @@ We use industry-standard security measures including Firebase's built-in securit
 
 ## Children's Privacy
 
-Virtual CoinVault is not directed at children under the age of 13. We do not knowingly collect personal information from children under 13.
+CoinLocker is not directed at children under the age of 13. We do not knowingly collect personal information from children under 13.
 
 ## Changes to This Policy
 
