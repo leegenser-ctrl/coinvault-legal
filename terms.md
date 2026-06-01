@@ -1,8 +1,8 @@
-# Terms of Service — Virtual CoinVault
+# Terms of Service — CoinLocker
 
 **Last updated: May 2026**
 
-By downloading or using the Virtual CoinVault app ("App"), you agree to these Terms of Service. Please read them carefully.
+By downloading or using the CoinLocker app ("App"), you agree to these Terms of Service. Please read them carefully.
 
 ## Eligibility
 
@@ -14,7 +14,7 @@ You are responsible for maintaining the confidentiality of your account credenti
 
 ## User Content
 
-You retain ownership of photos and content you upload. By uploading content you grant Virtual CoinVault a non-exclusive license to display that content within the App to facilitate trading and discovery between collectors.
+You retain ownership of photos and content you upload. By uploading content you grant CoinLocker a non-exclusive license to display that content within the App to facilitate trading and discovery between collectors.
 
 You agree not to upload content that is:
 - Illegal, fraudulent, or deceptive
@@ -25,11 +25,11 @@ We reserve the right to remove content that violates these terms.
 
 ## Trading and Transactions
 
-Virtual CoinVault is a platform that connects collectors. Any trades or sales arranged through the App are solely between the users involved. Virtual CoinVault is not a party to any transaction and is not responsible for the quality, safety, or legality of items traded or sold, or the ability of any user to complete a transaction.
+CoinLocker is a platform that connects collectors. Any trades or sales arranged through the App are solely between the users involved. CoinLocker is not a party to any transaction and is not responsible for the quality, safety, or legality of items traded or sold, or the ability of any user to complete a transaction.
 
 ## Pro Subscription
 
-Virtual CoinVault Pro is available as a monthly or annual auto-renewable subscription through the Apple App Store. Subscriptions automatically renew unless cancelled at least 24 hours before the end of the current period. You can manage and cancel subscriptions in your Apple ID account settings.
+CoinLocker Pro is available as a monthly or annual auto-renewable subscription through the Apple App Store. Subscriptions automatically renew unless cancelled at least 24 hours before the end of the current period. You can manage and cancel subscriptions in your Apple ID account settings.
 
 No refunds are provided for partial subscription periods except as required by applicable law.
 
@@ -47,7 +47,7 @@ The App is provided "as is" without warranties of any kind, either express or im
 
 ## Limitation of Liability
 
-To the maximum extent permitted by law, Virtual CoinVault and its creators shall not be liable for any indirect, incidental, special, or consequential damages arising from your use of the App.
+To the maximum extent permitted by law, CoinLocker and its creators shall not be liable for any indirect, incidental, special, or consequential damages arising from your use of the App.
 
 ## Changes to These Terms
 
