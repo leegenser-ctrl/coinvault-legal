@@ -56,9 +56,9 @@ CoinLocker is not directed at children under the age of 13. We do not knowingly 
 
 We may update this Privacy Policy from time to time. We will notify you of any changes by updating the date at the top of this page.
 
-## Contact Us
+## Contact
 
-If you have questions about this Privacy Policy, please contact us at:
+For questions about these Terms, contact us at:
 
-**Lee Genser**
+CoinLocker
 myvirtualcoinvault@gmail.com
