@@ -10,7 +10,7 @@ You must be at least 13 years old to use this App. By using the App you confirm 
 
 ## Your Account
 
-You are responsible for maintaining the confidentiality of your account credentials. You agree to notify us immediately at lee.genser@gmail.com if you suspect unauthorized use of your account.
+You are responsible for maintaining the confidentiality of your account credentials. You agree to notify us immediately at myvirtualcoinvault@gmail.com if you suspect unauthorized use of your account.
 
 ## User Content
 
