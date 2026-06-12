@@ -42,7 +42,7 @@ We do not sell your personal information to third parties. We share information 
 
 ## Data Retention
 
-Your data is retained as long as your account is active. You may request deletion of your account and associated data by contacting us at lee.genser@gmail.com.
+Your data is retained as long as your account is active. You may request deletion of your account and associated data by contacting us at myvirtualcoinvault@gmail.com.
 
 ## Security
 
