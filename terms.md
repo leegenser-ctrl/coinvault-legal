@@ -61,5 +61,5 @@ These Terms are governed by the laws of the State of New York, without regard to
 
 For questions about these Terms, contact us at:
 
-**Lee Genser**
+CoinLocker
 myvirtualcoinvault@gmail.com
